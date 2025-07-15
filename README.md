@@ -137,6 +137,10 @@ Dashboard
 - `README.md`
 - `/Images` (dashboard screenshots)
 
+## 📄 License
+
+MIT License – Feel free to use and contribute.
+
 ---
 
 ## 🔗 Author
