@@ -121,11 +121,11 @@ The Power BI dashboard provides rich, interactive visuals and KPIs that empower 
 ## 📷 Dashboard Preview
 
 
-KPI Preview
+4 KPI Cards  
 <img width="763" height="98" alt="kpi_cards" src="https://github.com/user-attachments/assets/0fcb75bf-5556-416d-9dee-87459e563c54" />
 
 
-Sales by Product Category Preview
+Sales by Product Category 
 <img width="414" height="237" alt="sales_by_category" src="https://github.com/user-attachments/assets/59061567-7d36-4f09-b219-fb399bc3aab8" />
 
 
