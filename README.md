@@ -120,8 +120,6 @@ The Power BI dashboard provides rich, interactive visuals and KPIs that empower 
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots of your dashboard here in `/Images` folder and embed using Markdown like this:)*
-
 ![KPI Cards](Images/kpi_cards.png)  
 ![Sales by Category](Images/sales_by_category.png)
 
