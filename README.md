@@ -123,7 +123,7 @@ The Power BI dashboard provides rich, interactive visuals and KPIs that empower 
 ![Dashboard](https://github.com/jayeshpardeshi161/Amazon-Sales-Analysis/blob/main/dashboard-preview.png?raw=true)
 ![KPI Cards](https://github.com/jayeshpardeshi161/Amazon-Sales-Analysis/blob/main/Images/kpi_cards.png?raw=true)  
 ![Sales by Category](https://github.com/jayeshpardeshi161/Amazon-Sales-Analysis/blob/main/Images/sales_by_category.png?raw=true)
-
+![Dashboard Preview](images/dashboard-preview.png)
 ---
 
 ## 📁 Files Included
