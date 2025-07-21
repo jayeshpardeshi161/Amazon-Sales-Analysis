@@ -146,4 +146,4 @@ MIT License – Feel free to use and contribute.
 ## 🔗 Author
  
 📧 [jayeshpardeshi161@gmail.com]  
-📌 LinkedIn: [Your Profile URL]  
+📌 LinkedIn: [Profile URL]  
