@@ -188,11 +188,13 @@ All visuals listed are present in my report:
 -   ✔ These visuals are built and match stated design.
 ________________________________________
 ### 🔍 Validation of Key Findings
-- Key Finding	Validated?	Remarks
-- High-performing brands (e.g., Anker, JBL)	✅ Yes	Multiple products from Anker and JBL with high review counts validate their strong performance
-- Sales spike in Q1 and post-holiday	✅ Yes	High sales in Jan, Dec, Nov show this pattern
-- Mid-priced = more reviews/sales	✅ Likely	E.g., Vince Camuto shoes: high reviews & decent sales
-- Weekly post-holiday peaks	✅ Yes	Week 1–5 are lower, spikes seen in weeks 36–53
+| Key Finding                               | Validated?                       | Remarks                                                  |
+| ----------------------------------------- | -------------------------------- | -------------------------------------------------------- |
+| High-performing brands (e.g., Anker, JBL) | ✅ Yes                           | 	Multiple products from Anker and JBL with high review counts validate their strong performance.|
+| Sales spike in Q1 and post-holiday        | ✅ Yes                           | High sales in Jan, Dec, Nov show this pattern            |
+| Mid-priced = more reviews/sales           | ✅ Likely                        | E.g., Vince Camuto shoes: high reviews & decent sales    |
+| Weekly post-holiday peaks                 | ✅ Yes                           | Week 1–5 are lower, spikes seen in weeks 36–53           |
+
 ________________________________________
 ### 💼 Business Impact – ✔ Mostly Covered
 - •	identified top-reviewed products for marketing (e.g., Vince Camuto).
