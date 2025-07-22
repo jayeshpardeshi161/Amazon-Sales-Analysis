@@ -238,6 +238,31 @@ ________________________________________
 | Conclusion           | ✅ Completed                            |
 
 ---
+### 📊 AMAZON PRODUCTS SALES ANALYSIS — SUMMARY REPORT
+#### 🧾 Project Overview
+- This analysis explores the sales data of Amazon audio and video products shipped to Bangladesh. 
+- It provides insights into pricing trends, top-performing products, popular brands, and customer engagement through review counts. 
+- The dataset spans January–February 2019 and includes over 100 unique product listings.
+________________________________________
+### 🔍 Key Findings
+##### 	📈 High-Demand Products:
+-	Products like the Anker Soundcore Bluetooth Speaker and JBL Flip 4 received 82,000+ and 13,000+ reviews respectively, highlighting their popularity.
+-	iOttie Easy One Touch 5 had the highest number of reviews (126,957), indicating strong consumer interest in car mounts.
+##### 	🏷️ Price & Review Correlation:
+-	No strong direct correlation observed between price and number of reviews — both budget and premium products showed high engagement.
+-	Popular low-priced products (e.g., Amazon Basics chargers) demonstrate that affordability boosts volume.
+##### 	🏆 Brand Performance:
+-	Anker, JBL, Samsung, Belkin, and Marshall consistently appear in the top-performing products based on review count.
+-	Although not explicitly tagged in the raw data, manual inspection shows these brands dominate user preference.
+#### 	🚚 Shipping Trends:
+-	All items in the dataset are labeled "Ships to Bangladesh", enabling focused market insights for that region.
+________________________________________
+
+### 📌 Recommendations
+-	📦 Focus on Proven Brands for marketing strategies (Anker, JBL, Samsung).
+-	🔎 Highlight Mid-Range Products — they tend to balance price and popularity.
+-	📣 Invest in Accessories (e.g., chargers, mounts) — they receive surprisingly high engagement for low prices.
+---
 ## 📁 Files Included
 
 - `Amazon_Combined_Data.xlsx`
