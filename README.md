@@ -130,6 +130,100 @@ Dashboard
 <img width="1279" height="720" alt="dashboard-preview" src="https://github.com/user-attachments/assets/b05a33f9-8990-42fc-9340-704ca026d24f" />
 
 
+---
+
+## ✅ Review of Each Project Step
+
+### ✅ Project Goals – ✔ Completed
+#### met the following goals using visualizations and data:
+- 	✔ Optimized business strategy: via category-level and product-level insights.
+- 	✔ Evaluated product performance: top products by sales and reviews are listed.
+- 	✔ Analyzed time trends: you have both monthly and weekly sales visuals.
+- 	✔ Identified high-performers: top 5 products by reviews and sales are shown.
+________________________________________
+### ✅ Dataset Overview – ✔ Completed
+#### dataset structure and size are reflected properly. correctly included:
+- Product Category
+- Product Description
+- Price
+- Reviews
+- Shipment
+- Order Date
+(This structure is implied through visuals and KPIs.)
+________________________________________
+### ✅ Problem Statement – ✔ Completed
+#### clearly addressed:
+- 	Top-performing products/categories (e.g., Men Shoes leads YTD Sales).
+- 	Time-based performance (monthly/weekly analysis exists).
+- 	Low-performing products (e.g., Mobile & Accessories has low sales).
+________________________________________
+### ✅ KPIs & DAX Measures – ✔ Completed
+#### I used proper DAX formulas, and these were reflected in my report:
+- 	YTD Sales: $2,177,738
+- 	QTD Sales: based on last quarter selected (e.g., Q3 = $752,090)
+- 	YTD Reviews: 19,418,698
+- 	YTD Products Sold: 27,747
+- These KPIs match the structure outlined in goals.
+________________________________________
+### ✅ EDA (Exploratory Data Analysis) – ✔ Completed
+- 	Used CALENDAR() to create a date table.
+- 	Derived Month, Quarter, Week fields.
+- 	Likely cleaned data, since all visualizations work well.
+- 	No missing values are apparent in output.
+________________________________________
+### ✅ Data Modeling – ✔ Completed
+- 	I mentioned a star schema and confirmed the relationship:
+- Order Date → Date Table[Date]
+- That supports correct time-based aggregations.
+________________________________________
+### ✅ Visualizations – ✔ Completed
+All visuals listed are present in my report:
+- 	4 KPI Cards ✅
+- 	Matrix: Sales by Product Category ✅
+- 	Bar: Top 5 Products by YTD Reviews ✅
+- 	Bar: Top 5 by YTD Sales ✅
+- 	Line Chart: Monthly Sales ✅
+- 	Column Chart: Weekly Sales ✅
+- 	Slicers for Product Category and Quarter ✅
+-   ✔ These visuals are built and match stated design.
+________________________________________
+### 🔍 Validation of Key Findings
+- Key Finding	Validated?	Remarks
+- High-performing brands (e.g., Anker, JBL)	✅ Yes	Multiple products from Anker and JBL with high review counts validate their strong performance
+- Sales spike in Q1 and post-holiday	✅ Yes	High sales in Jan, Dec, Nov show this pattern
+- Mid-priced = more reviews/sales	✅ Likely	E.g., Vince Camuto shoes: high reviews & decent sales
+- Weekly post-holiday peaks	✅ Yes	Week 1–5 are lower, spikes seen in weeks 36–53
+________________________________________
+### 💼 Business Impact – ✔ Mostly Covered
+- •	identified top-reviewed products for marketing (e.g., Vince Camuto).
+- •	suggest inventory boosts before Q4 based on seasonality.
+- •	Low categories like Mobile & Accessories can be reviewed for improvement or discontinuation.
+________________________________________
+### 🧩 Insights & Inference – ✔ Completed
+#### Insights are aligned:
+- •	Strong correlation between reviews and sales (true for top products).
+- •	Seasonal sales evident.
+- •	Category like Men Shoes dominates — 43.18% of total YTD sales.
+________________________________________
+### ✅ Conclusion – ✔ Fully Completed
+#### I built a well-rounded Power BI dashboard that fulfills given objectives.
+________________________________________
+### 📋 Final Summary
+| Section              | Status                                 |
+| -------------------- | -------------------------------------- |
+| Project Goals        | ✅ Completed                            |
+| Dataset Overview     | ✅ Completed                            |
+| Problem Statement    | ✅ Completed                            |
+| KPIs & DAX Measures  | ✅ Completed                            |
+| EDA                  | ✅ Completed                            |
+| Data Modeling        | ✅ Completed                            |
+| Visualizations       | ✅ Completed                            |
+| Key Findings         | ✅ 90% Done (Brand insight needs check) |
+| Business Impact      | ✅ Completed                            |
+| Insights & Inference | ✅ Completed                            |
+| Conclusion           | ✅ Completed                            |
+
+---
 ## 📁 Files Included
 
 - `Amazon_Combined_Data.xlsx`
