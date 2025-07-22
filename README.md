@@ -183,16 +183,18 @@ ________________________________________
 - That supports correct time-based aggregations.
 ________________________________________
 ### ✅ Visualizations – ✔ Completed
-All visuals listed are present in my report:
-- 	|4 KPI Cards                               |  ✅
-- 	|Matrix: Sales by Product Category         |  ✅
-- 	|Bar: Top 5 Products by YTD Reviews        |  ✅
-- 	|Bar: Top 5 by YTD Sales                   |  ✅
-- 	|Line Chart: Monthly Sales                 |  ✅
-- 	|Column Chart: Weekly Sales                |  ✅
-- 	|Slicers for Product Category and Quarter  |  ✅
--   |✔ These visuals are built and match stated design.|
-________________________________________
+#### All visuals listed are present in my report:
+| **Visualization**                                                    | **Status**  |
+| -------------------------------------------------------------------- | ----------- |
+| 🔹 4 KPI Cards (YTD Sales, QTD Sales, Reviews, Units Sold)           | ✅           |
+| 🔹 Matrix: Sales by Product Category                                 | ✅           |
+| 🔹 Bar Chart: Top 5 Products by YTD Reviews                          | ✅           |
+| 🔹 Bar Chart: Top 5 Products by YTD Sales                            | ✅           |
+| 🔹 Line Chart: Monthly Sales Trend                                   | ✅           |
+| 🔹 Column Chart: Weekly Sales Trend                                  | ✅           |
+| 🔹 Slicers: Product Category & Quarter                               | ✅           |
+| ✅ Visuals match the intended report design and enhance interactivity | ✔ Completed |
+
 ### 🔍 Validation of Key Findings
 | Key Finding                               | Validated?                       | Remarks                                                  |
 | ----------------------------------------- | -------------------------------- | -------------------------------------------------------- |
