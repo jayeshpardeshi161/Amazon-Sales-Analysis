@@ -152,10 +152,14 @@ ________________________________________
 (This structure is implied through visuals and KPIs.)
 ________________________________________
 ### ✅ Problem Statement – ✔ Completed
-#### clearly addressed:
-- 	Top-performing products/categories (e.g., Men Shoes leads YTD Sales).
-- 	Time-based performance (monthly/weekly analysis exists).
-- 	Low-performing products (e.g., Mobile & Accessories has low sales).
+#### The Power BI dashboard successfully addresses the core business questions through interactive visuals and DAX measures.
+| **Business Question**                        | **Analysis Output**                                              | **Status** |
+| -------------------------------------------- | ---------------------------------------------------------------- | ---------- |
+| 🔹 Top-performing products/categories        | *Men Shoes* category leads in YTD Sales                          | ✔ Done     |
+| 🔹 Time-based sales performance              | Monthly and weekly trend charts implemented using Date hierarchy | ✔ Done     |
+| 🔹 Identification of low-performing products | *Mobile & Accessories* shown to have significantly lower sales   | ✔ Done     |
+
+#### 🎯 These problem areas were visualized clearly using bar charts, line charts, and dynamic filters in Power BI.
 ________________________________________
 ### ✅ KPIs & DAX Measures – ✔ Completed
 ### I used proper DAX formulas in Power BI to create insightful KPIs. These values are dynamically calculated based on filters/slicers applied in the report.
