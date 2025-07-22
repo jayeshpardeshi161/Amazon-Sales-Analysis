@@ -135,7 +135,7 @@ Dashboard
 ## ✅ Review of Each Project Step
 
 ### ✅ Project Goals – ✔ Completed
-#### met the following goals using visualizations and data:
+##### This project successfully meets the following goals through Power BI visualizations and insights:
 | **Goal**                                                                      | **Status** |
 | ----------------------------------------------------------------------------- | ---------- |
 | ✔ Optimized business strategy using category-level and product-level insights | ✅          |
@@ -166,7 +166,7 @@ ________________________________________
 #### 🎯 These problem areas were visualized clearly using bar charts, line charts, and dynamic filters in Power BI.
 ________________________________________
 ### ✅ KPIs & DAX Measures – ✔ Completed
-### I used proper DAX formulas in Power BI to create insightful KPIs. These values are dynamically calculated based on filters/slicers applied in the report.
+#####  I used proper DAX formulas in Power BI to create insightful KPIs. These values are dynamically calculated based on filters/slicers applied in the report.
 | **KPI Metric**        | **DAX Measure** Example / Description         | **Final Output (as per report)** |
 | --------------------- | --------------------------------------------- | -------------------------------- |
 | **YTD Sales**         | `TOTALYTD(SUM(Sales[Amount]), Date[Date])`    | 💲2,177,738                      |
