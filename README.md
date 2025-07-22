@@ -136,10 +136,14 @@ Dashboard
 
 ### ✅ Project Goals – ✔ Completed
 #### met the following goals using visualizations and data:
-- 	✔ Optimized business strategy: via category-level and product-level insights.
-- 	✔ Evaluated product performance: top products by sales and reviews are listed.
-- 	✔ Analyzed time trends: you have both monthly and weekly sales visuals.
-- 	✔ Identified high-performers: top 5 products by reviews and sales are shown.
+| **Goal**                                                                      | **Status** |
+| ----------------------------------------------------------------------------- | ---------- |
+| ✔ Optimized business strategy using category-level and product-level insights | ✅          |
+| ✔ Evaluated product performance (Top products by Sales and Reviews listed)    | ✅          |
+| ✔ Analyzed time trends (Monthly and Weekly sales visuals implemented)         | ✅          |
+| ✔ Identified high-performing products (Top 5 by Reviews and Sales shown)      | ✅          |
+
+#### ✅ All project goals were successfully achieved using Power BI visualizations and data analysis.
 ________________________________________
 ### ✅ Dataset Overview – ✔ Completed
 #### dataset structure and size are reflected properly. correctly included:
