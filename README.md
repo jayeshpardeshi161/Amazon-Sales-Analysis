@@ -158,12 +158,14 @@ ________________________________________
 - 	Low-performing products (e.g., Mobile & Accessories has low sales).
 ________________________________________
 ### ✅ KPIs & DAX Measures – ✔ Completed
-#### I used proper DAX formulas, and these were reflected in my report:
-- 	YTD Sales: $2,177,738
-- 	QTD Sales: based on last quarter selected (e.g., Q3 = $752,090)
-- 	YTD Reviews: 19,418,698
-- 	YTD Products Sold: 27,747
-- These KPIs match the structure outlined in goals.
+### I used proper DAX formulas in Power BI to create insightful KPIs. These values are dynamically calculated based on filters/slicers applied in the report.
+| **KPI Metric**        | **DAX Measure** Example / Description         | **Final Output (as per report)** |
+| --------------------- | --------------------------------------------- | -------------------------------- |
+| **YTD Sales**         | `TOTALYTD(SUM(Sales[Amount]), Date[Date])`    | 💲2,177,738                      |
+| **QTD Sales**         | `TOTALQTD(SUM(Sales[Amount]), Date[Date])`    | 💲752,090 *(e.g., Q3)*           |
+| **YTD Reviews**       | `TOTALYTD(SUM(Reviews[Count]), Date[Date])`   | 19,418,698                       |
+| **YTD Products Sold** | `TOTALYTD(SUM(Orders[Quantity]), Date[Date])` | 27,747                           |
+
 ________________________________________
 ### ✅ EDA (Exploratory Data Analysis) – ✔ Completed
 - 	Used CALENDAR() to create a date table.
@@ -178,14 +180,14 @@ ________________________________________
 ________________________________________
 ### ✅ Visualizations – ✔ Completed
 All visuals listed are present in my report:
-- 	4 KPI Cards ✅
-- 	Matrix: Sales by Product Category ✅
-- 	Bar: Top 5 Products by YTD Reviews ✅
-- 	Bar: Top 5 by YTD Sales ✅
-- 	Line Chart: Monthly Sales ✅
-- 	Column Chart: Weekly Sales ✅
-- 	Slicers for Product Category and Quarter ✅
--   ✔ These visuals are built and match stated design.
+- 	|4 KPI Cards                               |  ✅
+- 	|Matrix: Sales by Product Category         |  ✅
+- 	|Bar: Top 5 Products by YTD Reviews        |  ✅
+- 	|Bar: Top 5 by YTD Sales                   |  ✅
+- 	|Line Chart: Monthly Sales                 |  ✅
+- 	|Column Chart: Weekly Sales                |  ✅
+- 	|Slicers for Product Category and Quarter  |  ✅
+-   |✔ These visuals are built and match stated design.|
 ________________________________________
 ### 🔍 Validation of Key Findings
 | Key Finding                               | Validated?                       | Remarks                                                  |
@@ -197,15 +199,15 @@ ________________________________________
 
 ________________________________________
 ### 💼 Business Impact – ✔ Mostly Covered
-- •	identified top-reviewed products for marketing (e.g., Vince Camuto).
-- •	suggest inventory boosts before Q4 based on seasonality.
-- •	Low categories like Mobile & Accessories can be reviewed for improvement or discontinuation.
+- 	identified top-reviewed products for marketing (e.g., Vince Camuto).
+- 	suggest inventory boosts before Q4 based on seasonality.
+- 	Low categories like Mobile & Accessories can be reviewed for improvement or discontinuation.
 ________________________________________
 ### 🧩 Insights & Inference – ✔ Completed
 #### Insights are aligned:
-- •	Strong correlation between reviews and sales (true for top products).
-- •	Seasonal sales evident.
-- •	Category like Men Shoes dominates — 43.18% of total YTD sales.
+- 	Strong correlation between reviews and sales (true for top products).
+- 	Seasonal sales evident.
+- 	Category like Men Shoes dominates — 43.18% of total YTD sales.
 ________________________________________
 ### ✅ Conclusion – ✔ Fully Completed
 #### I built a well-rounded Power BI dashboard that fulfills given objectives.
