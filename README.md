@@ -307,7 +307,7 @@ ________________________________________
 
 ________________________________________
 
-## Result 
+## 📈 What Results I Achieved  
 
 Designed and developed a comprehensive Power BI dashboard for Amazon sales analysis, achieving **95% data accuracy**, ensuring **100% reporting consistency**, and **reducing manual errors by 60%** through advanced DAX measures, dynamic visualizations, and optimized data modeling.
 
